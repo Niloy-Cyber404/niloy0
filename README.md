@@ -1,11 +1,11 @@
-## Hi i am N!LOY https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif
+## Hi i am N!LOY👋
 ### 😻😻😻
 ### 🎭🎭🎭
 ###### Follow my Facebook👇
 ###### https://www.facebook.com/NILOY.VAU.6
 ###### Subscribe My Channel👇
 ###### https://www.youtube.com/channel/UCc-4SLIbh0NJtGPeQHbec6w
-com/iampavangandhi/iampavanghttps://github-readme-stats.vercel.app/api?username:niloy0
+
 
 <!--
 **niloy0/niloy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
