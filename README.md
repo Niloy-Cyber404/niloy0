@@ -63,6 +63,8 @@ H4CK3R![Alt text](https://camo.githubusercontent.com/94ded25daa24a3f7d7cf9d7c9c6
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
+<img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
+
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=N1LOY-V4U-CRACK&theme=merko&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&_icons=false" alt="github-readme-streak-stats">
