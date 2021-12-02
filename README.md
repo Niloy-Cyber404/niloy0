@@ -2,12 +2,6 @@
 # HI I AM N!LOY ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### 😻😻😻
-### 🎭🎭🎭
-###### Follow my Facebook👇
-###### https://www.facebook.com/NILOY.VAU.6
-###### Subscribe My Channel👇
-###### https://www.youtube.com/channel/UCc-4SLIbh0NJtGPeQHbec6w
 
 ![Alt text](https://camo.githubusercontent.com/ebf84be3c9b929b89ce2dbe8489c6df660a086d4785f432186b654cab36616c3/68747470733a2f2f6a2e746f7034746f702e696f2f705f31393636736b677738302e6a7067)
 
@@ -45,7 +39,6 @@ H4CK3R![Alt text](https://camo.githubusercontent.com/94ded25daa24a3f7d7cf9d7c9c6
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=niloy0&theme=merko)
 
-- 📫 How to reach me **mdniloyislam905@gmail.com**
 
 ### Databases:
 
@@ -66,6 +59,8 @@ H4CK3R![Alt text](https://camo.githubusercontent.com/94ded25daa24a3f7d7cf9d7c9c6
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+
+- 📫 How to reach me **mdniloyislam905@gmail.com**
 
 <a href="https://twitter.com/NiloyVau48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niloyahmed" height="30" width="40" /></a>
 
