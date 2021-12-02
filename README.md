@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 -->
 ### GITHUB STATES 
 
-![Alt text](https://camo.githubusercontent.com/a38f49bcc61ada0b02cd7ad8a22943877f330822417e0c09b1ec2e692286e224/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4841434b4552494853414e267468656d653d6d6f6e6f6b6169)
+<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=niloy0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-H4CK3R![Alt text](https://camo.githubusercontent.com/94ded25daa24a3f7d7cf9d7c9c6e502d7e38da841208abf790225740cb7ee41a/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4841434b4552494853414e2f636f756e742e737667)
+<h3><b><i>Visitors :</i></b></h3>
+
+![Visitor Count](https://profile-counter.glitch.me/darkhunter141/count.svg)
 
 - ![Profile views](https://gpvc.arturio.dev/MRVIVEK-CODER)
 - [![GitHub followers](https://img.shields.io/github/followers/niloy0.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/niloy0?tab=followers)
