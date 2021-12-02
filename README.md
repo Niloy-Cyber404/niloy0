@@ -74,11 +74,15 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=N1LOY-V4U-CRACK&theme=vision-friendly-dark"></a>
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=niloy-jutt&theme=vision-friendly-dark&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&_icons=false" alt="github-readme-streak-stats">
+<p align="center">
+<a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=niloy-jutt&theme=cobalt"></a>
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=NILOY-VAU&theme=cobalt&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&_icons=false" alt="github-readme-streak-stats">
+<p align="center">
+<a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=NILOY-VAU&theme=vision-friendly-dark"></a>
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=kellar&theme=gruvbox&_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&_icons=false" alt="github-readme-streak-stats">
+<p align="center">
+<a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=kellar&theme=gruvbox"></a>
+
 
 ### Databases:
 
