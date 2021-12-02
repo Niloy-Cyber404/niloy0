@@ -103,8 +103,10 @@ Here are some ideas to get you started:
 
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=N1LOY-V4U-CRACK&theme=merko&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=niloy-jutt&theme=github-dark&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=niloy-jutt&theme=vision-friendly-dark&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=3&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=NILOY-VAU&theme=cobalt&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=kellar&theme=gruvbox&_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
 
