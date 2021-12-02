@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 -->
 ### GITHUB STATES 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niloy0" alt="niloy0" /></a> </p>
+![Alt text](https://camo.githubusercontent.com/a38f49bcc61ada0b02cd7ad8a22943877f330822417e0c09b1ec2e692286e224/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4841434b4552494853414e267468656d653d6d6f6e6f6b6169)
+
+H4CK3R![Alt text](https://camo.githubusercontent.com/94ded25daa24a3f7d7cf9d7c9c6e502d7e38da841208abf790225740cb7ee41a/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4841434b4552494853414e2f636f756e742e737667)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niloy0&label=Profile%20views&color=0e75b6&style=flat" alt="niloy0" /> </p>
 
@@ -59,7 +61,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niloy0&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=merko&hide_border=true" />
+![Alt text](https://camo.githubusercontent.com/69a3c0bf0f29b55823790826b3ec5d02b238d6dd4af9b13a8ee339558d7e87d5/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f6873696e5468654c6567656e64266c61796f75743d636f6d70616374267468656d653d636861727472657573652d6461726b)
 
 <h3 align="left">Connect with me:</h3>
 
