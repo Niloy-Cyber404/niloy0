@@ -39,19 +39,6 @@ H4CK3R![Alt text](https://camo.githubusercontent.com/94ded25daa24a3f7d7cf9d7c9c6
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=niloy0&theme=merko)
 
-
-### Databases:
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niloy0&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Alt text](https://camo.githubusercontent.com/69a3c0bf0f29b55823790826b3ec5d02b238d6dd4af9b13a8ee339558d7e87d5/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f6873696e5468654c6567656e64266c61796f75743d636f6d70616374267468656d653d636861727472657573652d6461726b)
@@ -72,6 +59,27 @@ H4CK3R![Alt text](https://camo.githubusercontent.com/94ded25daa24a3f7d7cf9d7c9c6
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucc-4slibh0njtgpeqhbec6w" height="30" width="40" /></a>
 
 
+</p>
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=N1LOY-V4U-CRACK&theme=merko&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&_icons=false" alt="github-readme-streak-stats">
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=niloy-jutt&theme=vision-friendly-dark&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&_icons=false" alt="github-readme-streak-stats">
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=NILOY-VAU&theme=cobalt&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&_icons=false" alt="github-readme-streak-stats">
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=kellar&theme=gruvbox&_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&_icons=false" alt="github-readme-streak-stats">
+
+### Databases:
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### Tools:
@@ -105,14 +113,8 @@ H4CK3R![Alt text](https://camo.githubusercontent.com/94ded25daa24a3f7d7cf9d7c9c6
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
-![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=N1LOY-V4U-CRACK&theme=merko&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&_icons=false" alt="github-readme-streak-stats">
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=niloy-jutt&theme=vision-friendly-dark&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&_icons=false" alt="github-readme-streak-stats">
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=NILOY-VAU&theme=cobalt&color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&_icons=false" alt="github-readme-streak-stats">
-
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=kellar&theme=gruvbox&_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&_icons=false" alt="github-readme-streak-stats">
 
 
